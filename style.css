@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+#start{
+    background-color: seagreen;
+    letter-spacing: 3px;
+    color: white;
+}
+
+canvas{
+    border: 2px solid salmon;
+    margin-top: 90px;
+    box-shadow: 10px 10px 100px salmon;
+}
+
+#header{
+    background-color: cadetblue;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/*90, 158, 160
